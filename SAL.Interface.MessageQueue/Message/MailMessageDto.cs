@@ -1,7 +1,7 @@
 ﻿using System.Net.Mail;
-using Interface.MailMessageQueue.Message;
+using SAL.Interface.MailMessageQueue.Message;
 
-namespace Interface.MailMessageQueue
+namespace SAL.Interface.MailMessageQueue
 {
 	public class MailMessageDto
 	{

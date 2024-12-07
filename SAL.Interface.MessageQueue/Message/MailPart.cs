@@ -2,7 +2,7 @@
 using System.Net.Mime;
 using System.Text;
 
-namespace Interface.MailMessageQueue.Message
+namespace SAL.Interface.MailMessageQueue.Message
 {
 	public class MailPart
 	{

@@ -17,6 +17,6 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("Release")]
 #endif
 [assembly: AssemblyCompany("Danila Korablin")]
-[assembly: AssemblyProduct("Interface.MailMessageQueue")]
+[assembly: AssemblyProduct("Interface.MessageQueue")]
 [assembly: AssemblyCopyright("Copyright © Danila Korablin 2020")]
 #endif

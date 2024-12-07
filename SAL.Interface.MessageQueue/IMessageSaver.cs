@@ -1,7 +1,7 @@
 ﻿using System;
-using Interface.MailMessageQueue.Message;
+using SAL.Interface.MailMessageQueue.Message;
 
-namespace Interface.MailMessageQueue
+namespace SAL.Interface.MailMessageQueue
 {
 	/// <summary>Класс для сохранения результатов работы парсера</summary>
 	public interface IMessageSaver
