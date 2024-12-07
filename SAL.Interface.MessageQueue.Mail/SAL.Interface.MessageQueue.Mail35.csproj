@@ -10,8 +10,8 @@
     <ProjectGuid>{32A105AE-6CE4-403B-A6F6-DFC5912C0B22}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SAL.Interface.MessageQueue</RootNamespace>
-    <AssemblyName>SAL.Interface.MessageQueue</AssemblyName>
+    <RootNamespace>SAL.Interface.MessageQueue.Mail</RootNamespace>
+    <AssemblyName>SAL.Interface.MessageQueue.Mail</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">

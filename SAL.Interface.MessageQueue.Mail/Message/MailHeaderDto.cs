@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Net;
 
-namespace SAL.Interface.MessageQueue.Message
+namespace SAL.Interface.MessageQueue.Mail.Message
 {
 	public class MailHeaderDto
 	{

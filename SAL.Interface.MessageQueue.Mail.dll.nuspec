@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package>
+	<metadata>
+		<id>SAL.Interface.MessageQueue.Mail</id>
+		<version>0.0.0.0</version>
+		<authors>DKorablin</authors>
+		<license type="expression">Apache-1.0</license>
+		<readme>docs\README.md</readme>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<projectUrl>https://github.com/DKorablin/SAL.Interface.MessageQueue.Mail</projectUrl>
+		<repository type="git" url="https://github.com/DKorablin/SAL.Interface.MessageQueue.Mail" />
+		<description>Base interfaces for Message Queue plugins using Mail messages used by SAL applications</description>
+		<releaseNotes></releaseNotes>
+		<copyright>Danila Korablin</copyright>
+		<tags>SAL,Plugin,MessageQueue,Mail</tags>
+		<dependencies>
+			<group targetFramework="net20">
+			</group>
+		</dependencies>
+	</metadata>
+	<files>
+		<file src="README.md" target="docs" />
+		<!--file src="bin\net20\SAL.Interface.MessageQueue.Mail.xml" target="xml" /-->
+		<file src="bin\net20\SAL.Interface.MessageQueue.Mail.dll" target="lib\net20" />
+	</files>
+</package>

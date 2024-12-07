@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		.editorconfig = .editorconfig
 		README.md = README.md
-		SAL.Interface.MessageQueue.dll.nuspec = SAL.Interface.MessageQueue.dll.nuspec
+		SAL.Interface.MessageQueue.Mail.dll.nuspec = SAL.Interface.MessageQueue.Mail.dll.nuspec
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Workflows", "Workflows", "{06D963D4-9A0B-4B2B-A3C3-B1A534140FD0}"
@@ -17,7 +17,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Workflows", "Workflows", "{
 		.github\workflows\test.yml = .github\workflows\test.yml
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAL.Interface.MessageQueue35", "SAL.Interface.MessageQueue\SAL.Interface.MessageQueue35.csproj", "{32A105AE-6CE4-403B-A6F6-DFC5912C0B22}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAL.Interface.MessageQueue35", "SAL.Interface.MessageQueue.Mail\SAL.Interface.MessageQueue.Mail35.csproj", "{32A105AE-6CE4-403B-A6F6-DFC5912C0B22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
