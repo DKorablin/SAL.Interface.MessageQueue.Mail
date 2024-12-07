@@ -1,2 +1,2 @@
-# TEMPLATE plugin
-This is a template plugin description
+# Message Queue interfaces
+Base interfaces for Message Queue plugins used in SAL applications
